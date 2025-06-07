@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajeet-jadhav&label=Profile%20views&color=0e75b6&style=flat" alt="satyajeet-jadhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyajeet-jadhav" alt="satyajeet-jadhav" /></a> </p>
+
 
 - 📫 How to reach me **satyajeet.jadhav27@gmail.com**
 
