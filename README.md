@@ -17,3 +17,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyajeet-jadhav&show_icons=true&locale=en&layout=compact" alt="satyajeet-jadhav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyajeet-jadhav&" alt="satyajeet-jadhav" /></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SATYAJEET-JADHAV/SATYAJEET-JADHAV/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SATYAJEET-JADHAV/SATYAJEET-JADHAV/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SATYAJEET-JADHAV/SATYAJEET-JADHAV/output/pacman-contribution-graph.svg">
+</picture>
+
+###
